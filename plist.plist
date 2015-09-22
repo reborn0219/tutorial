@@ -33,15 +33,15 @@
   <key>metadata</key>
   <dict>
    <key>bundle-identifier</key>
-   <string>程序的identifier在xcode中</string>
+   <string>com.usnoon.050804.YouLifeApp</string>
    <key>bundle-version</key>
-   <string>程序版本号在xcode中</string>
+   <string>1.0</string>
    <key>kind</key>
    <string>software</string>
    <key>subtitle</key>
    <string>子标题</string>
    <key>title</key>
-   <string>标题</string>
+   <string>You生活</string>
   </dict>
  </dict>
 </array>
